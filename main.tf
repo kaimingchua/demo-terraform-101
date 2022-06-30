@@ -3,7 +3,7 @@ terraform {
 }
 
 provider "aws" {
-  version = ">= 2.28.0"
+  version = ">= 2.26.0"
 }
 
 data "aws_ami" "ubuntu_16_04" {
