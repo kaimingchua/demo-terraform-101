@@ -1,5 +1,5 @@
 variable "owner_id" {
-  default = "anaconda"
+  default = "tf-training-bear"
 }
 
 locals {
